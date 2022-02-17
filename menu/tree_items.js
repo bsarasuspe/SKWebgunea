@@ -1,7 +1,7 @@
 /* --- menu items --- */
 var TREE_ITEMS = 
 [
-	['GIMEX PROIEKTUA', '../main/home_page.htm',
+	['KLINIKAPP PROIEKTUA', '../main/home_page.htm',
 			['Laburpena', '../Proyecto/Memoria/resumen'],			
 			['Aurkibide orokorra', '../Proyecto/Memoria/indice'],
 			['Aurkezpena', '../Proyecto/Aurkezpena.ppt'],

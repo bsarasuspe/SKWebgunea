@@ -2,7 +2,7 @@
 var TREE_ITEMS = 
 [
 	['KlinikApp proiektua', '../main/home_page.htm',
-			['Portada', '../Proyecto/Memoria/portada'],		
+			['Portada', '../main/home_page.htm'],		
 			['Aurkibide orokorra', '../Proyecto/Memoria/indice'],
 			['Aurkezpena', '../Proyecto/Aurkezpena.ppt'],
 			['Memoria','../Proyecto/Memoria/1_0_memoria.htm',

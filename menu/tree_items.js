@@ -1,17 +1,16 @@
 /* --- menu items --- */
 var TREE_ITEMS = 
 [
-	['KLINIKAPP PROIEKTUA', '../main/home_page.htm',
-			['Laburpena', '../Proyecto/Memoria/resumen'],			
+	['KlinikApp proiektua', '../main/home_page.htm',
+			['Portada', '../Proyecto/Memoria/portada'],		
 			['Aurkibide orokorra', '../Proyecto/Memoria/indice'],
 			['Aurkezpena', '../Proyecto/Aurkezpena.ppt'],
-			['MEMORIA','../Proyecto/Memoria/1_0_memoria.htm',
-			 	['Portada', '../Proyecto/Memoria/portada'],
-				['Sarrera', '../Proyecto/Memoria/introduccion'],
-				['Helburua', '../Proyecto/Memoria/objeto'],
+			['Memoria','../Proyecto/Memoria/1_0_memoria.htm',
+				['01. Sarrera', '../Proyecto/Memoria/introduccion'],
+				['02. Helburua', '../Proyecto/Memoria/objeto'],
     	                     ],
                           
-			['MEMORIAREN ERANSKINAK',null,
+			['Memoriaren eranskinak',null,
 				['Sarrerako dokumentazioa', '../Proyecto/Memoria-Anexos/1_documentacion-entrada.htm'],
 				['Sistemaren espezifikazioa','../Proyecto/Memoria-Anexos/2_especificacion-sistema.htm',
 					['Betekizunak', null,

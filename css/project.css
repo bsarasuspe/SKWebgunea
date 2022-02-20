@@ -8,18 +8,18 @@ body
 {
 	background-color:#EEEEEE;
 }
-h1{font-family: Arial, sans-serif;}        
+h1{font-family: 'Roboto', sans-serif;}        
 h1.banner
 {
-	height:120px;
-	background-image:url(../images/underlinecopia.jpg);
-	background-repeat: repeat; 
-	background-attachment:scroll; 
-	color:#000000;
-	text-align: center;
-	font-weight:bolder;
-	font-size:25px;
-	background-position: 0% 
+	background-repeat: repeat;
+    background-attachment: scroll;
+    color: #000000;
+    text-align: center;
+    font-weight: bolder;
+    padding-bottom: 20px;
+    border-bottom: 3px solid #3465ae;
+    font-size: 25px;
+    background-position: 0%;
 }
 h1.banner1 {
 	background-attachment:scroll;

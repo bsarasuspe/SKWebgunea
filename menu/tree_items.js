@@ -36,7 +36,7 @@ var TREE_ITEMS = [
 					[' Arkitektura Koadernoa I','../proiektua/2_eranskinak/1_memoriaren_eranskinak/A2_analisi_diseinua/1_arkitektura/1_arkitektura_koadernoa_1.pdf'],
 					[' Arkitektura Koadernoa II','../proiektua/2_eranskinak/1_memoriaren_eranskinak/A2_analisi_diseinua/1_arkitektura/2_arkitektura_koadernoa_2.pdf']
 				],
-				['Diseinua', null,
+				[' Diseinua', null,
 					['Bizagiren 1. tailerraren AMIA', '../Proyecto/Memoria/1_0_memoria_archivos/Bizagi_Txostena.pdf'],
 				],
 				[' RUP Analisi eredua','../Proyecto/Memoria/1_0_memoria_archivos/modelo-analisis-rup/index.html'],

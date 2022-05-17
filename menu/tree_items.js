@@ -151,8 +151,6 @@ var TREE_ITEMS = [
 			[' 2.2. Garapen Prozesua (BPMN fitxategia)', '../Proyecto/Memoria/1_0_memoria_archivos/SoftwareGarapenProzesua.bpm'],
 			[' 2.3. Garapen Kasua dokumentua', '../Proyecto/Memoria/1_0_memoria_archivos/ErabakienJustifikazioak.pdf'],
 			[' 2.4. Garapen Prozesuaren Planifikazioa', '../Proyecto/Memoria/1_0_memoria_archivos/DenboraEstimazioak.pdf'],
-			[' 2.5. Garapen Prozesuren Inplementazio Ideiak', '...'],
-			[' 2.6. Tresnak', '...'],
 		],
 	]					
 ];
